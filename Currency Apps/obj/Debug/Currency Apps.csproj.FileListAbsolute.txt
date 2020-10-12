@@ -1,0 +1,14 @@
+D:\Currency Apps\Currency Apps\bin\Debug\Currency Apps.exe.config
+D:\Currency Apps\Currency Apps\bin\Debug\Currency Apps.exe
+D:\Currency Apps\Currency Apps\bin\Debug\Currency Apps.pdb
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps.csprojResolveAssemblyReference.cache
+D:\Currency Apps\Currency Apps\obj\Debug\MainWindow.g.cs
+D:\Currency Apps\Currency Apps\obj\Debug\App.g.cs
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.cache
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.lref
+D:\Currency Apps\Currency Apps\obj\Debug\MainWindow.baml
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps.g.resources
+D:\Currency Apps\Currency Apps\obj\Debug\Currency_Apps.Properties.Resources.resources
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps.csproj.GenerateResource.Cache
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps.exe
+D:\Currency Apps\Currency Apps\obj\Debug\Currency Apps.pdb
